@@ -22,6 +22,7 @@ function calculateResult() {
     currentInput = 'Error';
     updateDisplay();
     //sample
+    //sampl222
   }
 }
 
