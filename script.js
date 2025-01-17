@@ -21,6 +21,7 @@ function calculateResult() {
   } catch (error) {
     currentInput = 'Error';
     updateDisplay();
+    //sample
   }
 }
 
